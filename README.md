@@ -67,5 +67,6 @@ The semi-supervised approach follows this algorithm:
 
 
 ## References
-##http://places.csail.mit.edu/downloadData.html
+- http://places.csail.mit.edu/downloadData.html
+- B. Zhou, A. Lapedriza, J. Xiao, A. Torralba, and A. Oliva. “Learning Deep Features for Scene Recognition using Places Database.” Advances in Neural Information Processing Systems 27 (NIPS), 2014
 
