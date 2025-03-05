@@ -60,17 +60,6 @@ The semi-supervised approach follows this algorithm:
 5. Retrain the model and repeat the process
 6. Stop when no more high-confidence predictions are available or quality thresholds are not met
 
-## Results
-
-### Performance Comparison
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|--------|----------|
-
-
-### Key Findings
-
-## How to Use
 
 
 
@@ -78,4 +67,5 @@ The semi-supervised approach follows this algorithm:
 
 
 ## References
+##http://places.csail.mit.edu/downloadData.html
 
