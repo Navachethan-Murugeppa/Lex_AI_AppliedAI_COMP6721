@@ -68,10 +68,17 @@ git clone git@github.com:your-username/your-repository.git
 ```
 2. Make sure the latest python (3.9) is installed
 3. Launch jupyter notebook in anaconda prompt
-   ```bash
+```bash
 jupyter notebook
 ```
 4. Run the notebooks individually.
+
+Note:
+- Run the training models first. If the data is not normalized, run the AI_normalize_data.ipynb first.
+- Run the training notebooks first with the names AI_modelsRGB.ipynb, AI_modelsRGBminmax.ipynb and AI_modelsgrey.ipynb.
+- Note that the necessary libraries are imported initially in the first cell.
+- Later run the AI_testmodles.ipynb to test the trained models on the test data.
+- For ease the nexessary trained models over the data is also available in the pickle format (.pkl).
 
 
 
