@@ -78,7 +78,7 @@ Note:
 - Run the training notebooks first with the names AI_modelsRGB.ipynb, AI_modelsRGBminmax.ipynb and AI_modelsgrey.ipynb.
 - Note that the necessary libraries are imported initially in the first cell.
 - Later run the AI_testmodles.ipynb to test the trained models on the test data.
-- For ease the nexessary trained models over the data is also available in the pickle format (.pkl).
+- For ease the necessary trained models over the data is also available in the pickle format (.pkl).
 
 
 
