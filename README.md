@@ -62,7 +62,8 @@ The semi-supervised approach follows this algorithm:
 
 
 ## How to run the notebooks
-[Click here to copy code](pip install joblib)
+```bash
+git clone git@github.com:your-username/your-repository.git
 
 
 
