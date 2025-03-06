@@ -64,7 +64,7 @@ The semi-supervised approach follows this algorithm:
 ## How to run the notebooks
 1. Clone the Repository
 ```bash
-git clone git@github.com:your-username/your-repository.git
+git clone https://github.com/Navachethan-Murugeppa/Lex_AI_AppliedAI_COMP6721.git
 ```
 2. Make sure the latest python (3.9) is installed
 3. Launch jupyter notebook in anaconda prompt
