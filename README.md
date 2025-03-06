@@ -28,8 +28,8 @@ This project explores multiple approaches to image classification:
    - With and without feature scaling
 
 2. **Semi-Supervised Learning with Decision Trees**
-   - RGB implementation (`nSemiSupdecision.ipynb`)
-   - Grayscale implementation (`Semi_supervised_decisiontree.ipynb`)
+   - RGB implementation
+   - Grayscale implementation
 
 3. **Feature Engineering Approaches**
    - Raw pixel values
