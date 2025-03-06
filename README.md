@@ -61,9 +61,9 @@ The semi-supervised approach follows this algorithm:
 6. Stop when no more high-confidence predictions are available or quality thresholds are not met
 
 
+### How to run the notebooks
+[Click here to copy code](pip install joblib)
 
-
-3. **Run the notebooks:**
 
 
 ## References
