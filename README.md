@@ -36,6 +36,9 @@ This project explores multiple approaches to image classification:
    - MinMaxScaler normalization
    - Color histograms
 
+4. **Convolutional Neural Network**
+   - CNN model traoined for RGB and grayscale image data 
+
 ## Methodology
 
 ### Data Preprocessing
@@ -60,6 +63,8 @@ The semi-supervised approach follows this algorithm:
 5. Retrain the model and repeat the process
 6. Stop when no more high-confidence predictions are available or quality thresholds are not met
 
+### Convolutional Neural Network
+CNN models are buillt with multiple layers which are tested on tensors of the image data.
 
 ## How to run the notebooks
 1. Clone the Repository
@@ -72,6 +77,14 @@ git clone https://github.com/Navachethan-Murugeppa/Lex_AI_AppliedAI_COMP6721.git
 jupyter notebook
 ```
 4. Run the notebooks individually.
+5. Install torch and pytorch
+```bash
+pip install torch
+```
+```bash
+pip install pytorch
+```
+Install other required libraries using pip
 
 Note:
 - Run the training models first. If the data is not normalized, run the AI_normalize_data.ipynb first.
